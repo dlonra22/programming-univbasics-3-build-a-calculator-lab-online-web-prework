@@ -1,5 +1,5 @@
 def addition(num1, num2)
- result = num1+num2
+ result = num1 + num2
 puts total
 end
 
@@ -9,7 +9,7 @@ puts result
 end
 
 def division(num1, num2)
-result = num1/num2
+result = num1 / num2
 puts result
 end
 
